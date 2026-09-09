@@ -63,7 +63,7 @@ For each ring size, the framework generates instances for:
 
 ---
 
-You can refer to our previous work on synchronous unison and Dijkstra's K-state algorithm, which provides both source code and benchmark instances:
+You can refer to our previous works on synchronous unison and Dijkstra's K-state algorithm, which provide both source code and benchmark instances:
 
 📄 Asma Khoualdia, Sami Cherif, Stéphane Devismes, Léo Robert. Analyzing Self-Stabilization of Synchronous Unison via Propositional Satisfiability. International Conference on Principles and Practice of Constraint Programming (CP 2025), Glasgow, Scotland. [DOI: https://doi.org/10.4230/LIPIcs.CP.2025.19/](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2025.19)
 
