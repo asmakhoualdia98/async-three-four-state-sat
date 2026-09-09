@@ -48,7 +48,7 @@ python3 GraphSolver_ThreeState.py <num_nodes> <CONV|DIV> <SYNC|CEN|LOC|DIS-UNFAI
 
 ## 📊 Benchmark Instances
 
-The provided benchmarks consider ring sizes: n = 3 .. 10
+The provided benchmarks consider ring sizes: `n = 3 .. 10`
 
 For each ring size, the framework generates instances for:
 
