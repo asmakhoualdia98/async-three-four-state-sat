@@ -37,35 +37,12 @@ pip install python-sat[pblib,aiger]
 python3 GraphSolver_FourState.py <num_nodes> <CONV|DIV> <SYNC|CEN|LOC|DIS-UNFAIR>
 ```
 
-For example:
-
-```bash
-python3 GraphSolver_FourState.py 5 CONV SYNC
-```
-
-The generated CNF file is stored in:
-
-```text
-Benchmark/FourState/CONV/SYNC/
-```
-
 ### Three-State
 
 ```bash
 python3 GraphSolver_ThreeState.py <num_nodes> <CONV|DIV> <SYNC|CEN|LOC|DIS-UNFAIR>
 ```
 
-For example:
-
-```bash
-python3 GraphSolver_ThreeState.py 5 CONV SYNC
-```
-
-The generated CNF file is stored in:
-
-```text
-Benchmark/ThreeState/CONV/SYNC/
-```
 
 ---
 
